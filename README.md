@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Halim</h1>
+<h1 align="center">Hi There 👋, I'm Halim Luquet</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/halim-luquet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halim luquet" height="30" width="40" /></a>
