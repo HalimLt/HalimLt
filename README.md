@@ -1,3 +1,4 @@
+<title>Halim Luquet</title>
 <meta name="google-site-verification" content="OCe83gaqd1vgkpFxaI8ku5dVbEh2ClH3HYzb_Nt8pW8" />
 <h1 align="center">Hi There 👋, I'm Halim Luquet</h1>
 <h3 align="left">Connect with me:</h3>
